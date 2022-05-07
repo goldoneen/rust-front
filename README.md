@@ -12,8 +12,6 @@ The goal of Ethereum compatibility layer is to be able to:
   where an extra bridge binary is acceptable.
 * Be able to import state from Ethereum mainnet.
 
-
-
 ## Releases
 
 ### Primitives
